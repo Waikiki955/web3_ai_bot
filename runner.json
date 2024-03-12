@@ -1,0 +1,11 @@
+{
+    "zksrpc": "https://mainnet.era.zksync.io",
+    "ethrpc": "https://rpc.ankr.com/eth",
+    "bscrpc": "https://rpc.ankr.com/bsc",
+    "opbnb": "https://1rpc.io/opbnb",
+    "walletPath": "/Users/changba-os-034/code/learn/dailytask/config/wallet.csv",
+    "proxy": "http://ricd8plc:JwOMXuLTBAo6fTW3@proxy.proxy-cheap.com:31112",
+    "maxGasPrice": 50,
+    "minInterval": 5,
+    "maxInterval": 20
+}
